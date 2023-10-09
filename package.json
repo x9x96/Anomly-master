@@ -6,7 +6,7 @@
     "author": "Shoaib Asgar <msk4862@gmail.com>",
     "license": "MIT",
     "engines": {
-        "node": "14"
+        "node": "18"
     },
     "scripts": {
         "format": "prettier \"*/**.{js,scss}\" --write",
